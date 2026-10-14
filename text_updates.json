@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-14",
+  "notes": "Exemple — publier ce dossier dans un repo GitHub public",
+  "patches": [
+    {
+      "table": "HLTb",
+      "number": 1,
+      "title": null,
+      "lyric": null,
+      "title_en": null,
+      "comment": "Exemple : remplacer null par le texte corrigé, ou supprimer ce patch"
+    }
+  ]
+}
